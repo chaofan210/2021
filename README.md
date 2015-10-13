@@ -2,6 +2,10 @@
 
 [百度](http://www.baidu.com "百度一下，你就知道")
 
+![GitHub Mark](https://www.baidu.com/img/bd_logo1.png "GitHub Mark")
+
+
+
 # 这是 H1 #
 - 无序列表
 - 无序列表
