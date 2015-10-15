@@ -5,7 +5,7 @@
 ![GitHub Octocat][2]
 
 [1]:http://www.baidu.com
-[2]:http://img1.imgtn.bdimg.com/it/u=2970665250,870809065&fm=21&gp=0.jpg 
+[2]:http://b391.photo.store.qq.com/psb?/V10exasV2JuMKF/tG99oRjTnfavquWqaVCNYWvFIuakGtSoN27gZwc7YQI!/b/dIcBAAAAAAAA&bo=gAJVAwAAAAAFB*A!&rf=viewer_4
 
 
 [百度](http://www.baidu.com "百度一下，你就知道")
