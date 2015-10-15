@@ -1,4 +1,5 @@
 # 美女
+![image](https://github.com/dsxNiubility/SXWaveAnimate/raw/master/screenshots/waveAnimate.gif)
 
 [炒饭][1]
 ![GitHub Octocat][2]
