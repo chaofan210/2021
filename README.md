@@ -1,14 +1,14 @@
 # FirstLogin
 
 
-[不如][1]
+[炒饭][1]
 ![GitHub Octocat][2]
 
-[1]:http://www.baidu.com
+[1]:http://user.qzone.qq.com/1072669843
 [2]:http://b249.photo.store.qq.com/psb?/V10exasV2EVbJi/uOEAXeXeOwFXak2g8SgxEqKv1OMR3IOb3IkdLRoEJ98!/b/dN8YcpQrJwAA&bo=9QHwAgAAAAABByY!&rf=viewer_4
 
 
-[百度](http://www.baidu.com "百度一下，你就知道")
+[百度](http://user.qzone.qq.com/1072669843"百度一下，你就知道")
 
 ![GitHub Mark](http://img4.duitang.com/uploads/item/201401/28/20140128173912_54NXN.jpeg "null")
 
@@ -31,8 +31,8 @@
 
 ### 这是 H3 ######
 这是 H3内容
-<http://ibruce.info>
-<bu.ru@qq.com>
+<http://user.qzone.qq.com/1072669843>
+<fanping210@qq.com>
 
 **一个人来到田纳西**
 __毫无疑问__
