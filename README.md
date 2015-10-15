@@ -10,7 +10,7 @@
 
 [百度](http://www.baidu.com "百度一下，你就知道")
 
-![GitHub Mark](https://www.baidu.com/img/bd_logo1.png "百度一下的图片")
+![GitHub Mark](http://img4.duitang.com/uploads/item/201401/28/20140128173912_54NXN.jpeg "null")
 
 
 
