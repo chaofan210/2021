@@ -1,5 +1,5 @@
 # 美女
-![image](http://contentcms-bj.cdn.bcebos.com/cmspic/639410223e58dd824aedde7f2b6c69ae.jpeg?x-bce-process=image/crop,x_0,y_139,w_690,h_463.jpg，"null")
+![image](https://t7.baidu.com/it/u=1595072465,3644073269&fm=193&f=GIF "null")
 
 [炒饭][1]
 ![GitHub Octocat][2]
