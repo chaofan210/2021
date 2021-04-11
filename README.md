@@ -1,5 +1,5 @@
 # 美女
-![image](https://github.com/dsxNiubility/SXWaveAnimate/raw/master/screenshots/waveAnimate.gif "null")
+![image](http://contentcms-bj.cdn.bcebos.com/cmspic/639410223e58dd824aedde7f2b6c69ae.jpeg?x-bce-process=image/crop,x_0,y_139,w_690,h_463"null")
 
 [炒饭][1]
 ![GitHub Octocat][2]
